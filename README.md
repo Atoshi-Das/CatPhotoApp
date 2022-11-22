@@ -1,1 +1,1 @@
-# CatPhotoApp
+Atoshi.CatPhotoApp
